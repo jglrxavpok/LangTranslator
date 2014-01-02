@@ -9,6 +9,10 @@ import java.io.InputStream;
 import java.io.OutputStream;
 import java.io.UnsupportedEncodingException;
 
+
+/**
+ * Need to be redone, pretty old :/
+ */ 
 public final class IO
 {
 	
